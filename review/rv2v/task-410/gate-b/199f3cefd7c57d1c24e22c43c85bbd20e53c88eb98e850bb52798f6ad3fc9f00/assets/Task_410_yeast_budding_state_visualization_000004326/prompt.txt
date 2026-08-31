@@ -1,0 +1,1 @@
+Analyze the yeast mother cell throughout the video and visualize its budding state over time. Indicate the current state in each frame as unbudded, small bud, large bud, dead, empty, or clog.
